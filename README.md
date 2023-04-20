@@ -24,7 +24,7 @@ Given a pair of sentences, [keyBERT](https://github.com/MaartenGr/KeyBERT
 
 ![](Assets/pipeline.png)
 
-In order to evaluate the pipeline, the [Quora Question Pair](https://www.kaggle.com/datasets/quora/question-pairs-dataset) dataset is used. Pretrained [SentenceTransformer](https://www.sbert.net/docs/pretrained_models.html) is used to generate the labels. The overall method and the results can be found in the [presentation](Final_Presetnation.pptx) file.
+In order to evaluate the pipeline, the [Quora Question Pair](https://www.kaggle.com/datasets/quora/question-pairs-dataset) dataset is used. Pretrained [SentenceTransformer](https://www.sbert.net/docs/pretrained_models.html) is used to generate the labels. The overall method and the results can be found in the [presentation](Final_Presentation.pptx) file.
 
 
 
