@@ -15,7 +15,7 @@ In the vanilla Bert encoder, the output of previous layer is added to the output
 
 | Original             |  Proposed |
 :-------------------------:|:-------------------------:
-![](Assets/original.png)  |  ![](Assets/attention.png)
+![](Assets/original.jpg)  |  ![](Assets/attention.jpg)
 
 
 ### Pipeline
